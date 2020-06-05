@@ -1,0 +1,102 @@
+#modal{
+  /*no hexadecimal da cor é possivel 
+  usar um alfa uma opacidade  acrescentando
+   FF significa  0 de opacidade e 00
+     significa 100% de opacidade podendo ser usado algo
+     como assim 09 no final ficando entao #0e0a1409 */
+  background-color:#0e0a14ef ;
+  height:100vh;
+  width:100vw;
+
+  position: fixed;
+  top:0;
+
+  display:flex;
+  justify-content: center;
+  align-items: center;
+
+  transition: 400ms;
+}
+
+#modal.hide{
+  display: none;
+}
+
+#modal .content{
+  color:#fff;
+
+  width:420px;
+ 
+}
+
+#modal .header{
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 48px;
+}
+
+#modal .header a{
+  background-image: url("../assets/x.svg");
+
+  width:20px;
+  height:20px;
+
+  display:flex;
+
+
+  /*é importante deixar o nome do elemento para que 
+  o leitor do navegador possa ler o elemento 
+  acessibilidade para pessoas especiais
+  usamos o font-size com o menor tamanho possivel 
+  a olho nu para manter o nome do elemento*/
+  font-size:0.01px;
+}
+
+#modal .header h1{
+  color:#fff;
+
+  font-size:36px;
+  line-height: 42px;
+  
+}
+
+#modal form label{
+  font-size: 14px;
+  line-height: 16px;
+
+  display:block;
+  margin-bottom:8px;
+}
+
+#modal form .field{
+  display:flex;
+}
+
+#modal form input{
+  flex:1;
+
+  background-color:#f0f0f5;
+
+  border-radius: 8px 0 0 8px;
+  border:0;
+
+  padding:16px 24px;
+
+  font-size:16px;
+  color:#6c6c80;
+}
+
+#modal form button{
+  width:72px;
+  height:72px;
+
+  background-color: var(--primary-color);
+
+  border:0;
+  border-radius: 0 8px 8px 0;
+}
+
+#modal form button:hover{
+  background-color:#2fb85e;
+}
