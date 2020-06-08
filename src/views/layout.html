@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt_br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewpoint" content="width=device-width,initial-scale=1.0">
+
+
+  {% block title %}
+  <title>Ecoleta</title>
+  {% endblock title %}
+
+
+
+  <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Ubuntu&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="styles/main.css">
+
+
+  <!--sintaxe do unjucks para carregar dados importados pelo extends-->
+  {% block styles %}
+  {% endblock styles %}
+
+  <link rel="stylesheet" href="styles/responsive.css">
+</head>
+
+<body>
+
+  <div id="{{ pageId }}">
+    {% block content %}
+    {% endblock content %}
+  </div>
+
+  {% block modal %}
+  {% endblock modal %}
+
+
+  {% block scripts %}
+  {% endblock scripts %}
+
+</body>
+
+</html>

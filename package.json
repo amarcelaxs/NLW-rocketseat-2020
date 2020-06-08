@@ -1,0 +1,15 @@
+{
+  "name": "Next-Level-Week",
+  "main": "src/index.js",
+  "_comentario": "criação logo abaixo de atalho para o comando de start do servidor local",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
