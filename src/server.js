@@ -1,6 +1,13 @@
 const express = require("express")
 const server = express()
 
+
+
+//pegar o banco de dados
+
+const db = require("./database/db")
+
+
 //configurar pasta publica
 //configuração do servidor 
 server.use(express.static("public"))
@@ -34,8 +41,25 @@ server.get("/create-point", (req, res) => {
 })
 
 server.get("/search", (req, res) => {
+
+  //pegar os dados no banco de dados
+
+  //consultar os dados da tabela
+  db.all(`SELECT * FROM places`, function (err, rows) {
+    if (err) {
+      return console.log(err)
+    }
+
+    console.log("aqui estãos seus registros")
+    console.log(rows)
+    return res.render("search-result.html", { places: rows })
+  })
+
+  //MOSTRAR A PAGINA HTML COM OS DADOS DO  BANCO DE DADOS
+
+
   //__dirname se refere ao diretorio
-  return res.render("search-result.html")
+
 })
 
 
