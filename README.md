@@ -15,8 +15,10 @@
     <img src="https://img.shields.io/badge/NLW-done-brightgreen?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
   </a>
   <br>
-  
+  <p>
   ![BADGE_LICENSE] ![BADGE_NODE_VERSION] ![BADGE_NPM_VERSION] ![BADGE_WEB_REACT] ![BADGE_MOBILE_REACT_NATIVE] ![BADGE_SERVER_NODEJS] ![BADGE_TYPESCRIPT] ![BADGE_OPEN_SOURCE] ![BADGE_OPEN_ISSUES] ![BADGE_CLOSED_ISSUES] ![BADGE_STARS] ![BADGE_FORKS]
+	<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/14bf1ed280c70f16a04e3f6712db8387ab96966c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f78306e3464302f65636f6c657461"><img src="https://camo.githubusercontent.com/14bf1ed280c70f16a04e3f6712db8387ab96966c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f78306e3464302f65636f6c657461" alt="BADGE_LICENSE" data-canonical-src="https://img.shields.io/github/license/x0n4d0/ecoleta" style="max-width:100%;"></a>
+</p>
  
 <p align="center">
   <a href="#-nlw">Next Level Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
