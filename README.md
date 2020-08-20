@@ -6,30 +6,30 @@
 	:heavy_check_mark:  NextLevelWeek 1.0 🚀 Done! :heavy_check_mark:
 </h4>
 <p align="center">	
-<a href="https://www.codacy.com/manual/DanielObara/NLW-1.0?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DanielObara/NLW-1.0&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/43a25c77fd4a4101a4ecc0d3df303a1e"/></a>
+<!--a href="https://www.codacy.com/manual/DanielObara/NLW-1.0?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DanielObara/NLW-1.0&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/43a25c77fd4a4101a4ecc0d3df303a1e"/></a-->
 	
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/DanielObara/NLW-1.0">
+  <!--img alt="Repository size" src="https://img.shields.io/github/repo-size/DanielObara/NLW-1.0"-->
 	
-  <a href="https://www.linkedin.com/in/danielobara/">
-    <img alt="Made by DanielObara" src="https://img.shields.io/badge/made%20by-DanielObara-%2304D361">
+  <a href="https://www.linkedin.com/in/anamarcelaxs/">
+    <img alt="Made by AnaMarcela" src="https://img.shields.io/badge/made%20by-AnaMarcela-%2304D361">
   </a>
 
   <a aria-label="Completed" href="https://nextlevelweek.com/aulas/booster/1/edicao/1">
     <img src="https://img.shields.io/badge/NLW-done-brightgreen?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
   </a>
   
-  <a href="https://github.com/DanielObara/NLW-1.0/commits/master">
+  <!--a href="https://github.com/DanielObara/NLW-1.0/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/DanielObara/NLW-1.0">
-  </a>
+  </a-->
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+  <!--img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
    <a href="https://github.com/DanielObara/NLW-1.0/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/DanielObara/NLW-1.0?style=social">
-  </a>
+  </a-->
 </p>
-<p align="center">
+<!--p align="center">
 <a href="https://insomnia.rest/run/?label=NLW%201.0%20-%20Ecoleta&uri=https%3A%2F%2Fraw.githubusercontent.com%2FDanielObara%2FNLW-1.0%2Fmaster%2Fbackend%2FInsomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</p>
+</p-->
 <p align="center">
   <a href="#-nlw">Next Level Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -87,7 +87,7 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/DanielObara/NLW-1.0
+$ git clone https://github.com/amarcelaxs/NLW-rocketseat-2020
 
 # Go into the repository
 $ cd NLW-1.0/backend
@@ -111,7 +111,7 @@ $ yarn dev
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/DanielObara/NLW-1.0
+$ git clone https://github.com/amarcelaxs/NLW-rocketseat-2020
 
 # Go into the repository
 $ cd NLW-1.0/frontent
@@ -129,7 +129,7 @@ $ yarn start
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/DanielObara/NLW-1.0
+$ git clone https://github.com/amarcelaxs/NLW-rocketseat-2020
 
 # Go into the repository
 $ cd NLW-1.0/mobile
@@ -158,9 +158,6 @@ After merging your receipt request to done, you can delete a branch from yours.
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/DanielObara/NLW-1.0/blob/master/LICENSE) for details.
-
-Made with ♥ by Daniel Obara :wave: [Get in touch!](https://www.linkedin.com/in/danielobara/)
 
 [nodejs]: https://nodejs.org/
 [typescript]: https://www.typescriptlang.org/
