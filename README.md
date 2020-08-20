@@ -121,6 +121,34 @@ $ yarn start
 
 # running on port 3000
 ```
+
+## **:books: REFERÊNCIAS**
+
+- [React + TypeScript Cheat Sheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
+- [Blog Rocketseat](https://blog.rocketseat.com.br/)
+- [ReactJS](https://reactjs.org/docs/getting-started.html) | [ReactJS pt-BR](https://pt-br.reactjs.org/docs/getting-started.html)
+- [TypeScript](https://www.typescriptlang.org/docs/home.html)
+- [React Native](https://reactnative.dev/docs/getting-started)
+- [Expo](https://expo.io/learn)
+- [Knex][knex]
+- [Express](https://expressjs.com/pt-br/)
+- [Node](https://nodejs.org/en/)
+- [Celebrate](https://github.com/arb/celebrate)
+- [Joi](https://hapi.dev/module/joi/)
+
+## **:page_with_curl: LICENÇA**
+
+Esse repositório está licenciado pela **MIT LICENSE**. Para mais informações detalhadas, leia o arquivo [LICENSE](./LICENSE) contido nesse repositório. 
+
+<h3 align="center">
+Feito com ❤️ por <a href="https://www.linkedin.com/in/mauricioromagnoli/">Maurício Romagnoli</a>
+<br><br>
+<a href="https://rocketseat.com.br">
+  <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
+</a>
+</h3>
+
+
 ## :memo: License
 [nodejs]: https://nodejs.org/
 [typescript]: https://www.typescriptlang.org/
