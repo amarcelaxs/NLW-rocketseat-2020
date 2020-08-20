@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src=".github/logo.svg" width="250px" />
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://www.google.com.br/url?sa=i&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwj2tcGq9qnrAhUhHbkGHSmvB7IQjRx6BAgBEAQ&url=https%3A%2F%2Fgithub.com%2Fx0n4d0%2Fecoleta&psig=AOvVaw0FINuFo6r3LvvIZYL4JHjP&ust=1598017796970705" width="250px" />
 </h1>
 
 <h4 align="center"> 
