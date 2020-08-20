@@ -15,10 +15,6 @@
     <img src="https://img.shields.io/badge/NLW-done-brightgreen?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
   </a>
   <br>
-  
-  
-  <div align="center">
-  
  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/1af8e9f28cfcfbe64ee7fb151a317da44782c744/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7765622d72656163742d626c7565"><img src="https://camo.githubusercontent.com/1af8e9f28cfcfbe64ee7fb151a317da44782c744/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7765622d72656163742d626c7565" alt="BADGE_WEB_REACT" data-canonical-src="https://img.shields.io/badge/web-react-blue" ></a> 
  
  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/ca9a9e3223e9fc29b04036725782790bd14c2f0b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d6f62696c652d72656163742532306e61746976652d626c756576696f6c6574"><img src="https://camo.githubusercontent.com/ca9a9e3223e9fc29b04036725782790bd14c2f0b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d6f62696c652d72656163742532306e61746976652d626c756576696f6c6574" alt="BADGE_MOBILE_REACT_NATIVE" data-canonical-src="https://img.shields.io/badge/mobile-react%20native-blueviolet"></a>
@@ -35,7 +31,7 @@
  
  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d8c6ce4bc872b784b064aa859b5be9a1c2b72302/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e706d2d362e31342e342d726564"><img src="https://camo.githubusercontent.com/d8c6ce4bc872b784b064aa859b5be9a1c2b72302/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e706d2d362e31342e342d726564" alt="BADGE_NPM_VERSION" data-canonical-src="https://img.shields.io/badge/npm-6.14.4-red"></a> 
  
- </div>
+
   </p>
   <br>
 	
@@ -74,12 +70,12 @@ Ecoleta é um projeto desenvolvido com base na semana internacional do meio ambi
 
 #### **Website** ([React][react] + [TypeScript][typescript])
 
-  - **[React Router Dom][react_router_dom]**
-  - **[React Icons][react_icons]**
-  - **[Axios][axios]**
-  - **[Leaflet][leaflet]**
-  - **[React Leaflet][react_leaflet]**
-  - **[React Dropzone][react_dropzone]**
+  - <b>React Router Dom</b>
+  - <b>React Icons</b>
+  - <b>Axios</b>
+  - <b>Leaflet</b>
+  - <b>React Leaflet</b>
+  - <b>React Dropzone</b>
 
 
 
@@ -101,8 +97,8 @@ Ecoleta é um projeto desenvolvido com base na semana internacional do meio ambi
 #### **Utilitários**
 
 - Protótipo: <a href="https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta"><b>Figma</b></a>
-- API: **[IBGE API][ibge_api]** &rarr; **<kbd>[API de UFs][ibge_api_ufs]</kbd>**, **<kbd>[API de Municípios][ibge_api_municipios]</kbd>** 
-- Maps: **[Leaflet][leaflet]**
+- API: <b>IBGE API</b>** &rarr; **<kbd><b>API de UFs</b>**, **<kbd><b>API de Municípios</b>** 
+- Maps: <b>Leaflet</b>
 - Editor: <b>Visual Studio Code</b><b>vscode</b> 
 - Ícones: <b>Feather Icons</b>, <b>Font Awesome</b>
 - Fontes: <b>Ubuntu  Roboto</b>
@@ -114,7 +110,7 @@ Acesse o layout indo no link <a href="https://www.figma.com/file/1SxgOMojOB2zYT0
 
 ## Como Usar
 
-Clonar e executar essa aplicação, você vai precisar [Git](https://git-scm.com), [Node.js][nodejs] + [Yarn][yarn] instalado no seu computador.
+Clonar e executar essa aplicação, você vai precisar <b>Git</b>, <b>Node.js</b> + <b>Yarn</b> instalado no seu computador.
 
 From your command line:
 
