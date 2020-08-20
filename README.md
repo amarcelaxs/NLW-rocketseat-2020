@@ -5,7 +5,7 @@
 <h4 align="center"> 
 	:heavy_check_mark:  NextLevelWeek 1.0 🚀 Done! :heavy_check_mark:
 </h4>
-<p align="center">	
+<p align="center">
 	
   <a href="https://www.linkedin.com/in/anamarcelaxs/">
     <img alt="Made by AnaMarcela" src="https://img.shields.io/badge/made%20by-AnaMarcela-%2304D361">
@@ -16,7 +16,7 @@
   </a>
   <br>
   
-  <p align="center">
+  
  
  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/1af8e9f28cfcfbe64ee7fb151a317da44782c744/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7765622d72656163742d626c7565"><img src="https://camo.githubusercontent.com/1af8e9f28cfcfbe64ee7fb151a317da44782c744/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7765622d72656163742d626c7565" alt="BADGE_WEB_REACT" data-canonical-src="https://img.shields.io/badge/web-react-blue" style="max-width:100%;"></a>
  
@@ -37,7 +37,7 @@
  
  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d8c6ce4bc872b784b064aa859b5be9a1c2b72302/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e706d2d362e31342e342d726564"><img src="https://camo.githubusercontent.com/d8c6ce4bc872b784b064aa859b5be9a1c2b72302/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e706d2d362e31342e342d726564" alt="BADGE_NPM_VERSION" data-canonical-src="https://img.shields.io/badge/npm-6.14.4-red" style="max-width:100%;"></a>
  
- </p>
+ 
  
  
 <p align="center">
