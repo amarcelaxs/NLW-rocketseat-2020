@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://www.google.com.br/url?sa=i&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwj2tcGq9qnrAhUhHbkGHSmvB7IQjRx6BAgBEAQ&url=https%3A%2F%2Fgithub.com%2Fx0n4d0%2Fecoleta&psig=AOvVaw0FINuFo6r3LvvIZYL4JHjP&ust=1598017796970705" width="250px" />
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/a7140671ae5f41a11d01bbbd3a58650f8babe7c9/68747470733a2f2f7777772e676f6f676c652e636f6d2e62722f75726c3f73613d6926736f757263653d696d677265732663643d266361643d726a6126756163743d38267665643d326168554b45776a327463477139716e724168556848626b4748536d76423749516a527836424167424541512675726c3d68747470732533412532462532466769746875622e636f6d25324678306e34643025324665636f6c65746126707369673d414f765661773046494e75466f3672334c7676495a594c344a486a50267573743d31353938303137373936393730373035"><img alt="NextLevelWeek" title="#NextLevelWeek" src="https://user-images.githubusercontent.com/42815135/83976057-f0352c00-a8cd-11ea-88da-22ff672ce842.png" width="250px" data-canonical-="" style="max-width:100%;"></a>
 </h1>
 
 <h4 align="center"> 
