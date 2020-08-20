@@ -57,6 +57,8 @@ Ecoleta é um projeto desenvolvido com base na semana internacional do meio ambi
 
 <img align="center" src="https://repository-images.githubusercontent.com/268634250/e7eda000-a5f2-11ea-9849-0f4848b31000" width="100%" />
 
+<b>Layout</b> : https://www.figma.com/file/2OFhFNxlJtwcH5V2rQaeYP/Ecoleta-Booster
+
 
 ## :rocket: Tecnologias
 
