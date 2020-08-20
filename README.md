@@ -15,13 +15,8 @@
     <img src="https://img.shields.io/badge/NLW-done-brightgreen?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
   </a>
   <br>
+  
   <p align="center">
-	
-	<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/623540f91c2d296e4e02a36c74b5680eff55c7d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652d31322e31372e302d677265656e"><img src="https://camo.githubusercontent.com/623540f91c2d296e4e02a36c74b5680eff55c7d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652d31322e31372e302d677265656e" alt="BADGE_NODE_VERSION" data-canonical-src="https://img.shields.io/badge/node-12.17.0-green" style="max-width:100%;"></a>
-	
-	
-	<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/14bf1ed280c70f16a04e3f6712db8387ab96966c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f78306e3464302f65636f6c657461"><img src="https://camo.githubusercontent.com/14bf1ed280c70f16a04e3f6712db8387ab96966c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f78306e3464302f65636f6c657461" alt="BADGE_LICENSE" data-canonical-src="https://img.shields.io/github/license/x0n4d0/ecoleta" style="max-width:100%;"></a>
-
  
  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/1af8e9f28cfcfbe64ee7fb151a317da44782c744/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7765622d72656163742d626c7565"><img src="https://camo.githubusercontent.com/1af8e9f28cfcfbe64ee7fb151a317da44782c744/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7765622d72656163742d626c7565" alt="BADGE_WEB_REACT" data-canonical-src="https://img.shields.io/badge/web-react-blue" style="max-width:100%;"></a>
  
