@@ -164,7 +164,7 @@ $ yarn start
 - [TypeScript](https://www.typescriptlang.org/docs/home.html)
 - [React Native](https://reactnative.dev/docs/getting-started)
 - [Expo](https://expo.io/learn)
-- [Knex][knex]
+- [Knex]
 - [Express](https://expressjs.com/pt-br/)
 - [Node](https://nodejs.org/en/)
 - [Celebrate](https://github.com/arb/celebrate)
