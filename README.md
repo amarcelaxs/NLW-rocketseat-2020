@@ -51,13 +51,12 @@ Um evento online totalmente gratuito que o ajudará a dar o próximo passo em su
 - Dia 4: Até 2 anos em 2 meses 04/06 - :heavy_check_mark:
 - Dia 5: Milha extra 05/06 - :heavy_check_mark:
 
-## 💻 Project
+## 💻 Projeto
 
-Ecoleta is a project developed based on international environment week. 
-That aims to connect people to companies that collect specific waste such as light bulbs, batteries, cooking oil, etc.
+Ecoleta é um projeto desenvolvido com base na semana internacional do meio ambiente. O objetivo é conectar pessoas a empresas que coletam resíduos específicos como lâmpadas, pilhas, óleo de cozinha, etc.
 
 <h1 align="center">
-    <img alt="Example" title="Example" src=".github/capa.svg" width="500px" />
+    <img alt="Example" title="Examplo" src=".github/capa.svg" width="500px" />
 </h1>
 
 
@@ -123,8 +122,6 @@ $ yarn start
 # running on port 3000
 ```
 ## :memo: License
-
-
 [nodejs]: https://nodejs.org/
 [typescript]: https://www.typescriptlang.org/
 [expo]: https://expo.io/
