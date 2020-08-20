@@ -29,7 +29,13 @@
  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/60dcf2177b53824e7912a6adfb3ff5e318d14ae4/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f6f732f76312f6f70656e2d736f757263652e706e673f763d313033"><img src="https://camo.githubusercontent.com/60dcf2177b53824e7912a6adfb3ff5e318d14ae4/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f6f732f76312f6f70656e2d736f757263652e706e673f763d313033" alt="BADGE_OPEN_SOURCE" data-canonical-src="https://badges.frapsoft.com/os/v1/open-source.png?v=103" style="max-width:100%;"></a>
  
  
+ <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/14bf1ed280c70f16a04e3f6712db8387ab96966c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f78306e3464302f65636f6c657461"><img src="https://camo.githubusercontent.com/14bf1ed280c70f16a04e3f6712db8387ab96966c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f78306e3464302f65636f6c657461" alt="BADGE_LICENSE" data-canonical-src="https://img.shields.io/github/license/x0n4d0/ecoleta" style="max-width:100%;"></a>
  
+ 
+ <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/623540f91c2d296e4e02a36c74b5680eff55c7d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652d31322e31372e302d677265656e"><img src="https://camo.githubusercontent.com/623540f91c2d296e4e02a36c74b5680eff55c7d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652d31322e31372e302d677265656e" alt="BADGE_NODE_VERSION" data-canonical-src="https://img.shields.io/badge/node-12.17.0-green" style="max-width:100%;"></a>
+ 
+ 
+ <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d8c6ce4bc872b784b064aa859b5be9a1c2b72302/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e706d2d362e31342e342d726564"><img src="https://camo.githubusercontent.com/d8c6ce4bc872b784b064aa859b5be9a1c2b72302/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e706d2d362e31342e342d726564" alt="BADGE_NPM_VERSION" data-canonical-src="https://img.shields.io/badge/npm-6.14.4-red" style="max-width:100%;"></a>
  
  </p>
  
