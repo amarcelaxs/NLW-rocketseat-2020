@@ -62,6 +62,7 @@ Ecoleta é um projeto desenvolvido com base na semana internacional do meio ambi
 
 ## :rocket: Tecnologias
 
+
 #### **Website** ([React][react] + [TypeScript][typescript])
 
   - **[React Router Dom][react_router_dom]**
@@ -72,7 +73,6 @@ Ecoleta é um projeto desenvolvido com base na semana internacional do meio ambi
   - **[React Dropzone][react_dropzone]**
 
 
-  \* Veja o arquivo <kbd>[package.json](./sources/website/package.json)</kbd>
 
 #### **Server** ([NodeJS][node] + [TypeScript][typescript])
 
@@ -86,7 +86,6 @@ Ecoleta é um projeto desenvolvido com base na semana internacional do meio ambi
   - **[Celebrate][celebrate]**
   - **[Joi][joi]**
 
-  \* Veja o arquivo <kbd>[package.json](./sources/server/package.json)</kbd>
 
 #### **Mobile** ([React Native][react_native] + [TypeScript][typescript])
 
@@ -99,8 +98,6 @@ Ecoleta é um projeto desenvolvido com base na semana internacional do meio ambi
   - **[Axios][axios]**
   - **[Expo Location][expo_location]**
   - **[Expo Mail Composer][expo_mail_composer]**
-
-  \* Veja o arquivo <kbd>[package.json](./sources/mobile/package.json)</kbd>
 
 #### **Utilitários**
 
