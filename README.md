@@ -14,10 +14,10 @@
   <a aria-label="Completed" href="https://nextlevelweek.com/aulas/booster/1/edicao/1">
     <img src="https://img.shields.io/badge/NLW-done-brightgreen?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
   </a>
-  <p>
   <br>
-	
-<div align="center">
+  
+  
+  <div align="center">
   
  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/1af8e9f28cfcfbe64ee7fb151a317da44782c744/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7765622d72656163742d626c7565"><img src="https://camo.githubusercontent.com/1af8e9f28cfcfbe64ee7fb151a317da44782c744/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7765622d72656163742d626c7565" alt="BADGE_WEB_REACT" data-canonical-src="https://img.shields.io/badge/web-react-blue" ></a> 
  
@@ -36,6 +36,10 @@
  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d8c6ce4bc872b784b064aa859b5be9a1c2b72302/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e706d2d362e31342e342d726564"><img src="https://camo.githubusercontent.com/d8c6ce4bc872b784b064aa859b5be9a1c2b72302/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e706d2d362e31342e342d726564" alt="BADGE_NPM_VERSION" data-canonical-src="https://img.shields.io/badge/npm-6.14.4-red"></a> 
  
  </div>
+  </p>
+  <br>
+	
+
  
 <p align="center">
   <a href="#-nlw">Next Level Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -81,47 +85,34 @@ Ecoleta é um projeto desenvolvido com base na semana internacional do meio ambi
 
 #### **Server** ([NodeJS][node] + [TypeScript][typescript])
 
-  - <b>**Express</b>
-  - **[CORS][cors]**
-  - **[KnexJS][knex]**
-  - **[SQLite][sqlite3]**
-  - **[ts-node][tsnode]**
-  - **[dotENV][dotenv]**
-  - **[Multer][multer]**
-  - **[Celebrate][celebrate]**
-  - **[Joi][joi]**
-
+  - <b>Express</b>
+  - <b>CORS</br>  
+  - <b>SQLite</b>
+  - <b>ts-node</b> 
 
 #### **Mobile** ([React Native][react_native] + [TypeScript][typescript])
 
-  - **[Expo][expo]**
-  - **[Expo Google Fonts][expo_google_fonts]**
-  - **[React Navigation][react_navigation]**
-  - **[React Native Maps][react_native_maps]**
-  - **[Expo Constants][expo_constants]**
-  - **[React Native SVG][react_native_svg]**
-  - **[Axios][axios]**
-  - **[Expo Location][expo_location]**
-  - **[Expo Mail Composer][expo_mail_composer]**
+  - <br>Expo</b>
+  - <b>Expo Google Fonts</b>
+  - <b>React Navigation</b>  
+  - <b>Expo Constants</b>
+  - <b>React Native SVG</b>      
 
 #### **Utilitários**
 
-- Protótipo: **[Figma](https://www.figma.com/)** &rarr; **<kbd>[Protótipo (Ecoleta)](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta)</kbd>**
+- Protótipo: <a href="https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta"><b>Figma</b></a>
 - API: **[IBGE API][ibge_api]** &rarr; **<kbd>[API de UFs][ibge_api_ufs]</kbd>**, **<kbd>[API de Municípios][ibge_api_municipios]</kbd>** 
 - Maps: **[Leaflet][leaflet]**
-- Editor: **[Visual Studio Code][vscode]** &rarr; Extensions: **<kbd>[SQLite][vscode_sqlite_extension]</kbd>**
-- Markdown: **[StackEdit][stackedit]**, **<kbd>[Markdown Emoji][markdown_emoji]</kbd>**
-- Commit Conventional: **[Commitlint][commitlint]**
-- Teste de API: **[Insomnia][insomnia]**
-- Ícones: **[Feather Icons][feather_icons]**, **[Font Awesome][font_awesome]**
-- Fontes: **[Ubuntu][font_ubuntu]**, **[Roboto][font_roboto]**
+- Editor: <b>Visual Studio Code</b><b>vscode</b> 
+- Ícones: <b>Feather Icons</b>, <b>Font Awesome</b>
+- Fontes: <b>Ubuntu  Roboto</b>
 
 
 ## 🔖 Layout
 
-To access the layout use [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/).
+Acesse o layout indo no link <a href="https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/"><b>Figma</b></a>
 
-## :information_source: Como Usar
+## Como Usar
 
 Clonar e executar essa aplicação, você vai precisar [Git](https://git-scm.com), [Node.js][nodejs] + [Yarn][yarn] instalado no seu computador.
 
