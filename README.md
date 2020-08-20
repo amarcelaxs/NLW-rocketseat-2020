@@ -140,14 +140,6 @@ $ yarn start
 
 Esse repositório está licenciado pela **MIT LICENSE**. Para mais informações detalhadas, leia o arquivo [LICENSE](./LICENSE) contido nesse repositório. 
 
-## :memo: License
-[nodejs]: https://nodejs.org/
-[typescript]: https://www.typescriptlang.org/
-[expo]: https://expo.io/
-[reactjs]: https://reactjs.org
-[rn]: https://facebook.github.io/react-native/
-[yarn]: https://yarnpkg.com/
-
 
 <h3 align="center">
 Feito com ❤️ por <a href="https://www.linkedin.com/in/anamarcelaxs/">Ana Marcela</a>
