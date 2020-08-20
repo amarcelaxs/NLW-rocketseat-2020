@@ -68,7 +68,7 @@ Ecoleta é um projeto desenvolvido com base na semana internacional do meio ambi
 ## :rocket: Tecnologias
 
 
-#### **Website** ([React][react] + [TypeScript][typescript])
+#### **Website** (<b>React</b>+ <b>TypeScript</b>)
 
   - <b>React Router Dom</b>
   - <b>React Icons</b>
@@ -79,14 +79,14 @@ Ecoleta é um projeto desenvolvido com base na semana internacional do meio ambi
 
 
 
-#### **Server** ([NodeJS][node] + [TypeScript][typescript])
+#### **Server** (<b>NodeJS</b> + <b>TypeScript</b>)
 
   - <b>Express</b>
   - <b>CORS</br>  
   - <b>SQLite</b>
   - <b>ts-node</b> 
 
-#### **Mobile** ([React Native][react_native] + [TypeScript][typescript])
+#### **Mobile** (<b>React Native</b>+ <b>TypeScript</b>)
 
   - <br>Expo</b>
   - <b>Expo Google Fonts</b>
