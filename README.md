@@ -81,7 +81,7 @@ Ecoleta é um projeto desenvolvido com base na semana internacional do meio ambi
 
 #### **Server** ([NodeJS][node] + [TypeScript][typescript])
 
-  - **[Express][express]**
+  - **Express
   - **[CORS][cors]**
   - **[KnexJS][knex]**
   - **[SQLite][sqlite3]**
