@@ -15,7 +15,8 @@
     <img src="https://img.shields.io/badge/NLW-done-brightgreen?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
   </a>
   <br>
-  <p>
+  <p align="center">
+	
 	<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/623540f91c2d296e4e02a36c74b5680eff55c7d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652d31322e31372e302d677265656e"><img src="https://camo.githubusercontent.com/623540f91c2d296e4e02a36c74b5680eff55c7d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652d31322e31372e302d677265656e" alt="BADGE_NODE_VERSION" data-canonical-src="https://img.shields.io/badge/node-12.17.0-green" style="max-width:100%;"></a>
 	
 	
@@ -34,7 +35,10 @@
  
  
  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/906136faa109e5660ed656f55e5d4d47b53e1b66/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f747970657363726970742f636f64652f747970657363726970742e706e673f763d313031"><img src="https://camo.githubusercontent.com/906136faa109e5660ed656f55e5d4d47b53e1b66/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f747970657363726970742f636f64652f747970657363726970742e706e673f763d313031" alt="BADGE_TYPESCRIPT" data-canonical-src="https://badges.frapsoft.com/typescript/code/typescript.png?v=101" style="max-width:100%;"></a>
+ 
  </p>
+ 
+ 
 <p align="center">
   <a href="#-nlw">Next Level Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
