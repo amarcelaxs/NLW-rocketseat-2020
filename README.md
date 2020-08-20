@@ -29,7 +29,7 @@
  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/60dcf2177b53824e7912a6adfb3ff5e318d14ae4/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f6f732f76312f6f70656e2d736f757263652e706e673f763d313033"><img src="https://camo.githubusercontent.com/60dcf2177b53824e7912a6adfb3ff5e318d14ae4/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f6f732f76312f6f70656e2d736f757263652e706e673f763d313033" alt="BADGE_OPEN_SOURCE" data-canonical-src="https://badges.frapsoft.com/os/v1/open-source.png?v=103" style="max-width:100%;"></a>
  
  
- <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/906136faa109e5660ed656f55e5d4d47b53e1b66/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f747970657363726970742f636f64652f747970657363726970742e706e673f763d313031"><img src="https://camo.githubusercontent.com/906136faa109e5660ed656f55e5d4d47b53e1b66/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f747970657363726970742f636f64652f747970657363726970742e706e673f763d313031" alt="BADGE_TYPESCRIPT" data-canonical-src="https://badges.frapsoft.com/typescript/code/typescript.png?v=101" style="max-width:100%;"></a>
+ 
  
  </p>
  
